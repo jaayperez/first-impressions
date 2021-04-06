@@ -1,0 +1,14 @@
+body {
+  margin: auto;
+  width: 600px;
+  color: #FFFFFF;
+  font-family: Arial, sans-serif;
+  background-color: #172B4D;
+}
+
+body>h1 {
+  margin: 50px;
+  font-size: 50px;
+  text-align: center;
+  color: #0052CC;
+}
